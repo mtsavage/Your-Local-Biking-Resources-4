@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bike N Hike", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -123.2623424, 44.561185, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Peak Sports", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -123.258841, 44.565228, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Corvallis Bicycle Collective", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -123.26623, 44.572384, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cyclotopia", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -123.26129450000001, 44.5604842, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dixon Recreation Center", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -123.2786169, 44.5631372, 0.0 ] } }
+]
+}
